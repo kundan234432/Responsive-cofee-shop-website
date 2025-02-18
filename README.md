@@ -2,7 +2,9 @@
 # Responsive-cofee-shop-website
 
   # Coffee House Cafe ☕️
-  ![Uploading image.png…]()
+  ![website screeshot](https://github.com/user-attachments/assets/30351ce0-e434-4081-9465-fcec4c73334f)
+
+
 
 
 Welcome to **Coffee House Cafe**, a beautifully designed coffee shop website that showcases our finest coffee offerings, blogs, and more.
